@@ -65,6 +65,11 @@ This project is designed as a **comprehensive portfolio piece** that demonstrate
 - plotly
 - scikit-learn
 - joblib
+- 
+## Dash Board
+![dashboard](results/executive_dashboard_fixed.png)
+##  Insights Chart
+![insights](results/week1_comprehensive_eda.png)
 
 ### Install required libraries:
 ```bash
