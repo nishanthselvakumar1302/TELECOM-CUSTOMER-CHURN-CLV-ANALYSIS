@@ -4,3 +4,6 @@ numpy
 plotly
 scipy
 scikit-learn
+matplotlib
+seaborn
+joblib
